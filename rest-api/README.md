@@ -253,11 +253,11 @@ This documentation describes in detail how to use the Apache Guacamole REST API.
         - **Example of body** - A possible example of response body is shown in the example of body in json format.
 
 ## Reference to Documentation
-- Tokens
-- Users
-- User groups
-- Connections
-- Connection groups
-- Sharing profiles
-- Schemes and languages
+- [Tokens](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/TOKENS.md)
+- [Users](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/USERS.md)
+- [User groups](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/USER_GROUPS.md)
+- [Connections](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/CONNECTIONS.md)
+- [Connection groups](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/CONNECTION_GROUPS.md)
+- [Sharing profiles](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/SHARING_PROFILES.md)
+- [Schemas and languages](https://github.com/DanyMo20/guacamole/blob/feature/rest-api/rest-api/docs/SCHEMAS_AND_LANGUAGES.md)
 
