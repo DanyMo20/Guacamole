@@ -114,7 +114,7 @@ cd C:\path\to\myenv
 git clone https://gitlab.com/apache-guacamole/guacamole-rest-api.git
 ```
 
-**8.** Change directory into the folder C:\path\to\guacamole-rest-api.
+**8.** Change directory into the folder ``C:\path\to\guacamole-rest-api``.
 ```powershell
 cd C:\path\to\guacamole-rest-api
 ```
